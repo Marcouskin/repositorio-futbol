@@ -1,5 +1,5 @@
-# Misiones
+# Premios individuales
 
-1. Acabar con el plan de Lex Luthor
-2. Crear la liga de la justicia
-3. Buscar nuevos miembros
+1. Balón de oro
+2. Bota de oro
+3. Mejor jugador FIFA

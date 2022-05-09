@@ -1,9 +1,10 @@
-# Heroes
+# Jugadores
 
-* Superman
-* Batman
-* Daredevil
-* Aquaman
-* Mujer Maravilla
-* Linterna Verde
-* Robin
+* Angel Di Maria
+* Cristiano Ronaldo
+* Kylian Mbappé
+* Lionel Messi
+* Neymar Jr
+* Robert Lewandowski
+* Paulo Dybala
+* Paul Pogba
