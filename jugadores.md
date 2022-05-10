@@ -5,6 +5,5 @@
 * Kylian Mbappé
 * Lionel Messi
 * Neymar Jr
-* Robert Lewandowski
 * Paulo Dybala
 * Paul Pogba
