@@ -10,3 +10,4 @@
 * Javier Hernandez
 * Erling Haaland
 * Mohamed Salah
+* Karim Benzema
