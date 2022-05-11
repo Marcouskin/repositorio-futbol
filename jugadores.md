@@ -9,3 +9,4 @@
 * Paul Pogba
 * Javier Hernandez
 * Erling Haaland
+* Mohamed Salah
