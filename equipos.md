@@ -7,3 +7,4 @@
 5. París Saint-Germain
 6. Chelsea
 7. Liverpool
+8. Borussia Dortmund
