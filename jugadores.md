@@ -7,3 +7,4 @@
 * Neymar Jr
 * Paulo Dybala
 * Paul Pogba
+* Javier Hernandez
