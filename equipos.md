@@ -5,5 +5,9 @@
 3. Manchester City
 4. Manchester United Football Club
 5. París Saint-Germain
+<<<<<<< HEAD
 6. Chelsea
 7. Sevilla
+=======
+6. Liverpool
+>>>>>>> rama-conflicto
