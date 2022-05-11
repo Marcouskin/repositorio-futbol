@@ -1,10 +1,8 @@
 # Equipos
 
-1. Barcelona
-2. Real Madrid
-3. Manchester City
-4. Manchester United Football Club
-5. París Saint-Germain
-6. Chelsea
-7. Liverpool
-8. Borussia Dortmund
+1. Manchester City
+2. Manchester United Football Club
+3. París Saint-Germain
+4. Chelsea
+5. Liverpool
+6. Borussia Dortmund
