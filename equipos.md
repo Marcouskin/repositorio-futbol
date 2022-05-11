@@ -6,3 +6,4 @@
 4. Chelsea
 5. Liverpool
 6. Borussia Dortmund
+7. Boca Juniors
