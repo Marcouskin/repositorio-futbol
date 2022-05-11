@@ -1,3 +1,3 @@
-# Motivo
+# NOTA
 
-Este repositorio sirve para probar cosas
+Este es un repositorio con temática de futbol
