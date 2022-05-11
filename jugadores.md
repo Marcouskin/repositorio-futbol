@@ -8,3 +8,4 @@
 * Paulo Dybala
 * Paul Pogba
 * Javier Hernandez
+* Erling Haaland
